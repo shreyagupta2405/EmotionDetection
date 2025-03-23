@@ -1,2 +1,4 @@
 # EmotionDetection
 EMOTION DETECTION – A COMPARATIVE ANALYSIS USING MACHINE  LEARNING AND DEEP LEARNING
+
+Research Paper submitted - ICDAM 2024 (publish awaited)
